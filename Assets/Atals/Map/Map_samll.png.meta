@@ -1,0 +1,1540 @@
+fileFormatVersion: 2
+guid: 21e00af1366bfbf449d02e07765574e3
+timeCreated: 1438136400
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aircraft_dead
+    21300002: Aircraft_normal
+    21300004: BrickChip
+    21300006: BrickPrompt
+    21300008: Bridge
+    21300010: Caonima_toright
+    21300012: Caonima_toright_cry
+    21300014: Caonima_toright_small
+    21300016: Check
+    21300018: Finger_blood
+    21300020: Finger_normal
+    21300022: FloatPlatform
+    21300024: HiddenTigerFrameContent_0
+    21300026: HiddenTigerFrameContent_1
+    21300028: HiddenTigerFrameContent_3
+    21300030: HiddenTigerFrameContent_4
+    21300032: HiddenTinyLock_1
+    21300034: HiddenTinyLock_2
+    21300036: HiddenTinyLock_4
+    21300038: HiddenTinyLock_5
+    21300040: HiddenTinyLock_7
+    21300042: HiddenTinyLock_8
+    21300044: Hidden_avatar_1
+    21300046: Hidden_avatar_2
+    21300048: Hidden_btn_dislike
+    21300050: Hidden_btn_like
+    21300052: Saw2_24x12_bottom
+    21300054: Shit
+    21300056: Spring_tiny
+    21300058: Stage1_3_block2_zh
+    21300060: Stage1_3_clock_cry
+    21300062: Stage1_3_clock_dead
+    21300064: Stage1_3_clock_normal
+    21300066: Stage1_6_monster
+    21300068: Stage2_1_gun
+    21300070: Stage2_1_shield
+    21300072: Stage2_2_gotcha_zh
+    21300074: Stage2_2_truelove_zh
+    21300076: Stage2_3_prop1
+    21300078: Stage2_3_prop2
+    21300080: Stage2_4_lbl_zh
+    21300082: Stage2_5_tank
+    21300084: Stage3_3_juice
+    21300086: Stage3_3_key1
+    21300088: Stage3_3_key2
+    21300090: Stage3_3_key3
+    21300092: Stage3_3_key4
+    21300094: Stage3_3_key5
+    21300096: Stage3_3_key6
+    21300098: Stage3_3_key7
+    21300100: Stage3_3_key8
+    21300102: Stage3_3_key9
+    21300104: Stage3_3_key_holder
+    21300106: Stage3_3_key_right
+    21300108: Stage3_3_key_right_large1
+    21300110: Stage3_3_key_right_large2
+    21300112: Stage3_3_key_right_large_pressed
+    21300114: Stage3_3_wrong
+    21300116: Stage3_6_a
+    21300118: Stage3_6_b
+    21300120: Stage3_6_c
+    21300122: Stage3_6_circle
+    21300124: Stage3_6_d
+    21300126: Stage4_1_dead_body
+    21300128: Stage4_1_heart
+    21300130: Stage4_1_shoe
+    21300132: Stage4_3_bomb
+    21300134: Stage4_3_gun
+    21300136: Stage4_4_danger_ja
+    21300138: Stage4_4_danger_zh
+    21300140: Stage4_4_safe_ja
+    21300142: Stage4_4_safe_zh
+    21300144: Stage4_6_face
+    21300146: Stage5_1_flag_notice_zh
+    21300148: Stage5_2_block1_clicked_zh
+    21300150: Stage5_2_block1_zh
+    21300152: Stage5_2_block2_clicked_zh
+    21300154: Stage5_2_block2_zh
+    21300156: Stage5_2_block3_zh
+    21300158: Stage5_2_card_0
+    21300160: Stage5_2_card_1
+    21300162: Stage5_2_card_2
+    21300164: Stage5_2_card_3
+    21300166: Stage5_2_card_4
+    21300168: Stage5_2_card_5
+    21300170: Stage5_2_card_6
+    21300172: Stage5_2_card_7
+    21300174: Stage5_2_card_border
+    21300176: Stage5_2_lady_1
+    21300178: Stage5_3_button_cloth
+    21300180: Stage5_3_button_cloth_clicked
+    21300182: Stage5_3_button_scissors
+    21300184: Stage5_3_button_scissors_clicked
+    21300186: Stage5_3_button_stone
+    21300188: Stage5_3_button_stone_clicked
+    21300190: Stage5_3_mybody
+    21300192: Stage5_3_vs
+    21300194: Stage5_4_poison
+    21300196: Stage5_5_Slime
+    21300198: Stage5_5_Slime_hard
+    21300200: Stage5_5_btn_flower
+    21300202: Stage5_5_btn_flower_pressed
+    21300204: Stage5_5_btn_gun
+    21300206: Stage5_5_btn_gun_pressed
+    21300208: Stage5_5_flower
+    21300210: Stage5_5_gun
+    21300212: Stage5_5_heart
+    21300214: Stage5_5_money_border
+    21300216: Stage5_5_shadow
+    21300218: Stage5_6_circle
+    21300220: Stage5_6_cnm1
+    21300222: Stage5_6_cnm2_say2
+    21300224: Stage6_1_gun
+    21300226: Stage6_1_heart
+    21300228: Stage6_5_brick
+    21300230: Stage_5_3_hisbody
+    21300232: Stage_5_3_myhead
+    21300234: Stage_5_3_myhead_cry
+    21300236: Stage_5_3_myhead_left
+    21300238: Stage_5_3_myhead_right
+    21300240: Stage_6_3_myhead
+    21300242: Stage_6_3_myhead_left
+    21300244: Stage_6_3_myhead_right
+    21300246: Stage_gameover_heart1
+    21300248: Stage_gameover_heart2
+    21300250: Stage_gameover_heart3
+    21300252: Stage_gameover_woman
+    21300254: Startup_herface1
+    21300256: Startup_herface1_zh
+    21300258: Startup_herface2
+    21300260: Startup_herface2_zh
+    21300262: Startup_herface3
+    21300264: Startup_herface3_zh
+    21300266: Startup_herface_pressed
+    21300268: Startup_herface_pressed_zh
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Aircraft_dead
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 204
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Aircraft_normal
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 298
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrickChip
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrickPrompt
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 298
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bridge
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 678
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caonima_toright
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 159
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caonima_toright_cry
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 159
+        height: 379
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Caonima_toright_small
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 26
+        width: 101
+        height: 240
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Check
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 197
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Finger_blood
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 914
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Finger_normal
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 696
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FloatPlatform
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTigerFrameContent_0
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 275
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTigerFrameContent_1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 292
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTigerFrameContent_3
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 370
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTigerFrameContent_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 448
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTinyLock_1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 16
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTinyLock_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 106
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTinyLock_4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 16
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTinyLock_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 106
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTinyLock_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTinyLock_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 189
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden_avatar_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 857
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden_avatar_2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 857
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden_btn_dislike
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 806
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden_btn_like
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 803
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Saw2_24x12_bottom
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 806
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Shit
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 353
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Spring_tiny
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 679
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_3_block2_zh
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 518
+        width: 120
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_3_clock_cry
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 913
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_3_clock_dead
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 486
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_3_clock_normal
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 686
+        width: 111
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_6_monster
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 677
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_1_gun
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 435
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_1_shield
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 868
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_2_gotcha_zh
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 540
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_2_truelove_zh
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 612
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_3_prop1
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 193
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_3_prop2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 193
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_4_lbl_zh
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 436
+        width: 184
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_5_tank
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 465
+        width: 213
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_juice
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 401
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 38
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 75
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 530
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key4
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 497
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key5
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 534
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 571
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key7
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 608
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key8
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 645
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key9
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 682
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key_holder
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 526
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key_right
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 719
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key_right_large1
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 914
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key_right_large2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 914
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_key_right_large_pressed
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 914
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_3_wrong
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 449
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_6_a
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 530
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_6_b
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 578
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_6_c
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 626
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_6_circle
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 474
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage3_6_d
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 674
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_1_dead_body
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 722
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_1_heart
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 826
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_1_shoe
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 225
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_3_bomb
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 795
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_3_gun
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 435
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_4_danger_ja
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 866
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_4_danger_zh
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 818
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_4_safe_ja
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 866
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_4_safe_zh
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 866
+        width: 100
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_6_face
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 102
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_1_flag_notice_zh
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 684
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_block1_clicked_zh
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 221
+        width: 168
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_block1_zh
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 195
+        width: 168
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_block2_clicked_zh
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 756
+        width: 131
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_block2_zh
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 791
+        width: 131
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_block3_zh
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 266
+        width: 120
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_0
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 22
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_1
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 22
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_2
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 14
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_3
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 94
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_4
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 22
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_5
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 22
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 113
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 112
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_border
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_lady_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 675
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_button_cloth
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 14
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_button_cloth_clicked
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 104
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_button_scissors
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 14
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_button_scissors_clicked
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 112
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_button_stone
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 174
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_button_stone_clicked
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 598
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_mybody
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 431
+        width: 112
+        height: 166
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_3_vs
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 288
+        width: 234
+        height: 143
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_4_poison
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 0
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_Slime
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 597
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_Slime_hard
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 597
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_btn_flower
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 200
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_btn_flower_pressed
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 192
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_btn_gun
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 262
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_btn_gun_pressed
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 776
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_flower
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 290
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_gun
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 374
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_heart
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 770
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_money_border
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 797
+        width: 189
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_shadow
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 444
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_6_circle
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 918
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_6_cnm1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 857
+        width: 70
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_6_cnm2_say2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 108
+        height: 262
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_1_gun
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 435
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_1_heart
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 466
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_5_brick
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 863
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_5_3_hisbody
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 791
+        width: 130
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_5_3_myhead
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 536
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_5_3_myhead_cry
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 616
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_5_3_myhead_left
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 696
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_5_3_myhead_right
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 597
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_6_3_myhead
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 536
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_6_3_myhead_left
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 696
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_6_3_myhead_right
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 597
+        width: 94
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_gameover_heart1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 567
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_gameover_heart2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 610
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_gameover_heart3
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 653
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_gameover_woman
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 597
+        width: 157
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 346
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface1_zh
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 352
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 382
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface2_zh
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 252
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 282
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface3_zh
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 344
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface_pressed
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 438
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_herface_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 826
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

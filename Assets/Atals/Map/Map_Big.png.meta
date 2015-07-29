@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 269a079ff6551484ba5bbb3daf91b62d
+timeCreated: 1438136402
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PromptImage_5_2_part_2
+    21300002: Prompt_frame
+    21300004: Stage1_2_hello_zh
+    21300006: Stage1_3_block1_zh
+    21300008: Stage1_4_hello_1_zh
+    21300010: Stage1_4_hello_2_zh
+    21300012: Stage1_5_hello_zh
+    21300014: Stage2_2_gotcha_zh
+    21300016: Stage2_2_truelove_zh
+    21300018: Stage2_3_hello_zh
+    21300020: Stage5_4_money_prompt_1_ja
+    21300022: Stage5_4_money_prompt_1_zh
+    21300024: Stage5_4_money_prompt_2_ja
+    21300026: Stage5_5_prompt_zh
+    21300028: Stage5_6_hello_zh
+    21300030: Stage6_3_bubble_his_1_zh
+    21300032: Stage6_3_bubble_his_react_no_zh
+    21300034: Stage6_3_bubble_his_react_yes_zh
+    21300036: Stage6_3_bubble_my_no_zh
+    21300038: Stage6_3_bubble_my_yes_zh
+    21300040: Stage6_4_hello_2_zh
+    21300042: Stage6_4_hello_zh
+    21300044: StageSelect_frame
+    21300046: Stage_5_3_hisbody
+    21300048: Startup_frame
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PromptImage_5_2_part_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 800
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prompt_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 800
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_2_hello_zh
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 57
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_3_block1_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1742
+        width: 168
+        height: 306
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_4_hello_1_zh
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 177
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_4_hello_2_zh
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 368
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1_5_hello_zh
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 488
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_2_gotcha_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 718
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_2_truelove_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 790
+        width: 120
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage2_3_hello_zh
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 368
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_4_money_prompt_1_ja
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 488
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_4_money_prompt_1_zh
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 17
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_4_money_prompt_2_ja
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_5_prompt_zh
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 297
+        width: 322
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_6_hello_zh
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 240
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_3_bubble_his_1_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1116
+        width: 199
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_3_bubble_his_react_no_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1247
+        width: 199
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_3_bubble_his_react_yes_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1378
+        width: 199
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_3_bubble_my_no_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 862
+        width: 200
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_3_bubble_my_yes_zh
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 989
+        width: 200
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_4_hello_2_zh
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 137
+        width: 312
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage6_4_hello_zh
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 312
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 526
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_5_3_hisbody
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1509
+        width: 130
+        height: 233
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 800
+        height: 480
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

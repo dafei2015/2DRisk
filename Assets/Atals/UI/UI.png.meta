@@ -1,0 +1,1276 @@
+fileFormatVersion: 2
+guid: 80ada38a07dd0f845a6fbd8bb5d76169
+timeCreated: 1438136404
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AchievementStage_title_deleted_zh
+    21300002: AchievementStage_title_zh
+    21300004: Achivement_item_frame
+    21300006: Achivement_logo_frame
+    21300008: AdPrompt
+    21300010: Btn_achievement_back_normal_zh
+    21300012: Btn_achievement_back_pressed_zh
+    21300014: Btn_goto_achievement_normal_zh
+    21300016: Btn_goto_achievement_pressed_zh
+    21300018: Btn_help_normal
+    21300020: Btn_help_pressed
+    21300022: Btn_leaderboard_normal
+    21300024: Btn_leaderboard_pressed
+    21300026: Btn_more_app_normal
+    21300028: Btn_more_app_pressed
+    21300030: Btn_moregames_normal
+    21300032: Btn_moregames_pressed
+    21300034: Btn_next
+    21300036: Btn_next_pressed
+    21300038: Btn_normal_adventure_normal_zh
+    21300040: Btn_normal_adventure_pressed_zh
+    21300042: Btn_ok
+    21300044: Btn_ok_pressed
+    21300046: Btn_replay
+    21300048: Btn_replay_pressed
+    21300050: Btn_walkthrough_normal
+    21300052: Btn_walkthrough_pressed
+    21300054: EndShow_normal_zh
+    21300056: HiddenBottom_1
+    21300058: HiddenBottom_2
+    21300060: HiddenFinalAward_title_zh
+    21300062: HiddenLock_1
+    21300064: HiddenLock_2
+    21300066: HiddenLock_3
+    21300068: HiddenTop_1
+    21300070: HiddenTop_2
+    21300072: Hidden_handsomepoint_zh
+    21300074: KD_wall_btn_normal
+    21300076: KD_wall_btn_pressed
+    21300078: Navigator_lose
+    21300080: Navigator_lose_image
+    21300082: Navigator_lose_image_1
+    21300084: Navigator_lose_image_2
+    21300086: Navigator_lose_image_3
+    21300088: Navigator_lose_text
+    21300090: Navigator_prompt_pressed_zh
+    21300092: Navigator_prompt_zh
+    21300094: Navigator_tv
+    21300096: Navigator_tv_info
+    21300098: Navigator_win_image_1
+    21300100: Navigator_win_image_2
+    21300102: Navigator_win_text
+    21300104: Option_btn_back_pressed_zh
+    21300106: Option_btn_back_zh
+    21300108: Option_gear
+    21300110: Option_lbl_music_zh
+    21300112: Option_lbl_sound_ja
+    21300114: Option_lbl_sound_zh
+    21300116: Option_lbl_title_zh
+    21300118: Prompt_btn_ok
+    21300120: Prompt_btn_ok_pressed
+    21300122: Prompt_title_zh
+    21300124: Stage4_6_open_normal
+    21300126: Stage4_6_open_pressed
+    21300128: Stage5_2_card_back
+    21300130: Stage5_2_card_back_selected
+    21300132: StageCG_skip_normal_zh
+    21300134: StageCG_skip_pressed_zh
+    21300136: StageSelect_frame
+    21300138: StageSelect_logo1
+    21300140: StageSelect_logo2
+    21300142: StageSelect_logo3
+    21300144: StageSelect_logo4
+    21300146: StageSelect_logo5
+    21300148: StageSelect_logo6
+    21300150: StageSelect_moveleft
+    21300152: StageSelect_moveleft_pressed
+    21300154: StageSelect_moveright
+    21300156: StageSelect_moveright_pressed
+    21300158: StageSelect_tinyblock
+    21300160: StageSelect_tinyblock_locked
+    21300162: StageSelect_tinyblock_pressed
+    21300164: Stage_gameover_btn_normal
+    21300166: Stage_gameover_btn_pressed
+    21300168: Startup_lbl_about_pressed_zh
+    21300170: Startup_lbl_about_zh
+    21300172: Startup_lbl_option_pressed_zh
+    21300174: Startup_lbl_option_zh
+    21300176: Startup_lbl_start_pressed_zh
+    21300178: Startup_lbl_start_zh
+    21300180: Startup_lbl_title_zh
+    21300182: Switch_off
+    21300184: Switch_on
+    21300186: Thumb_back
+    21300188: Thumb_back_pressed
+    21300190: Thumb_dpad_fire_pressed_zh
+    21300192: Thumb_dpad_fire_zh
+    21300194: Thumb_dpad_jump
+    21300196: Thumb_dpad_jump_pressed
+    21300198: Thumb_dpad_left
+    21300200: Thumb_dpad_left_pressed
+    21300202: Thumb_dpad_no
+    21300204: Thumb_dpad_no_pressed
+    21300206: Thumb_dpad_right
+    21300208: Thumb_dpad_right_pressed
+    21300210: Thumb_dpad_switch
+    21300212: Thumb_dpad_switch_pressed
+    21300214: Thumb_speaker
+    21300216: Thumb_speaker_disable
+    21300218: Thumb_speaker_on
+    21300220: Thumb_speaker_pressed
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AchievementStage_title_deleted_zh
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 799
+        width: 149
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AchievementStage_title_zh
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 812
+        width: 149
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Achivement_item_frame
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1635
+        width: 267
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Achivement_logo_frame
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 350
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AdPrompt
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1556
+        width: 119
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_achievement_back_normal_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1179
+        width: 210
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_achievement_back_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1234
+        width: 210
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_goto_achievement_normal_zh
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 599
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_goto_achievement_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 654
+        width: 174
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_help_normal
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 850
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_help_pressed
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1238
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_leaderboard_normal
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1293
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_leaderboard_pressed
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1348
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_more_app_normal
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 379
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_more_app_pressed
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 434
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_moregames_normal
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 489
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_moregames_pressed
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 544
+        width: 180
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_next
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_next_pressed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_normal_adventure_normal_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1525
+        width: 255
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_normal_adventure_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1580
+        width: 255
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_ok
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 404
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_ok_pressed
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_replay
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 14
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_replay_pressed
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 14
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_walkthrough_normal
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1403
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Btn_walkthrough_pressed
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1458
+        width: 150
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EndShow_normal_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1916
+        width: 370
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenBottom_1
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1659
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenBottom_2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1659
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenFinalAward_title_zh
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 927
+        width: 143
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenLock_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 732
+        width: 198
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenLock_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 881
+        width: 198
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenLock_3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1030
+        width: 198
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTop_1
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1912
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HiddenTop_2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1912
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hidden_handsomepoint_zh
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 350
+        width: 180
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KD_wall_btn_normal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: KD_wall_btn_pressed
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1559
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_lose
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 794
+        width: 527
+        height: 418
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_lose_image
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 174
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_lose_image_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 174
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_lose_image_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 174
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_lose_image_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 179
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_lose_text
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1071
+        width: 159
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_prompt_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1134
+        width: 154
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_prompt_zh
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1186
+        width: 154
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_tv
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 527
+        height: 418
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_tv_info
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1630
+        width: 527
+        height: 418
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_win_image_1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 400
+        width: 181
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_win_image_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 546
+        width: 181
+        height: 146
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Navigator_win_text
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 953
+        width: 144
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_btn_back_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 135
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_btn_back_zh
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 135
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_gear
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1288
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_lbl_music_zh
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1513
+        width: 111
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_lbl_sound_ja
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1100
+        width: 105
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_lbl_sound_zh
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 356
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Option_lbl_title_zh
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1396
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prompt_btn_ok
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 352
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prompt_btn_ok_pressed
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 352
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Prompt_title_zh
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 692
+        width: 185
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_6_open_normal
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 1144
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage4_6_open_pressed
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1216
+        width: 105
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_back
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage5_2_card_back_selected
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 4
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageCG_skip_normal_zh
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 362
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageCG_skip_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 452
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_frame
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 526
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_logo1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 350
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_logo2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_logo3
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_logo4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 407
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_logo5
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 52
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_logo6
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 302
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_moveleft
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 83
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_moveleft_pressed
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 83
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_moveright
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 83
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_moveright_pressed
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_tinyblock
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1658
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_tinyblock_locked
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1744
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StageSelect_tinyblock_pressed
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1830
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_gameover_btn_normal
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1734
+        width: 291
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage_gameover_btn_pressed
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1825
+        width: 291
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_about_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1702
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_about_zh
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1785
+        width: 125
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_option_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 905
+        width: 153
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_option_zh
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 988
+        width: 153
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_start_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1289
+        width: 216
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_start_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1407
+        width: 216
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Startup_lbl_title_zh
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1992
+        width: 400
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Switch_off
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1440
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Switch_on
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1498
+        width: 130
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_back
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 112
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_back_pressed
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 22
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_fire_pressed_zh
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 542
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_fire_zh
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 632
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_jump
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 709
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_jump_pressed
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 722
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_left
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 84
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_left_pressed
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 84
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_no
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 84
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_no_pressed
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 84
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_right
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1868
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_right_pressed
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1958
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_switch
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 837
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_dpad_switch_pressed
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1010
+        width: 135
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_speaker
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 405
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_speaker_disable
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 405
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_speaker_on
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Thumb_speaker_pressed
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 405
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

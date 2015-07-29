@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Map_Big.png (1024 x 2048)
+# $TexturePacker:SmartUpdate:218551281074758841715824e741ac47:d972cc99a08105ce4c0600f292975e10:2ab28ae063bdb5cd8dc469c97bc0db1e$
+#
+
+PromptImage_5_2_part_2;0;608;800;480;0.5;0.5
+Prompt_frame;0;1088;800;480;0.5;0.5
+Stage1_2_hello_zh;720;57;240;120;0.5;0.5
+Stage1_3_block1_zh;800;1742;168;306;0.5;0.5
+Stage1_4_hello_1_zh;624;177;240;120;0.5;0.5
+Stage1_4_hello_2_zh;766;368;240;120;0.5;0.5
+Stage1_5_hello_zh;766;488;240;120;0.5;0.5
+Stage2_2_gotcha_zh;800;718;120;72;0.5;0.5
+Stage2_2_truelove_zh;800;790;120;72;0.5;0.5
+Stage2_3_hello_zh;526;368;240;120;0.5;0.5
+Stage5_4_money_prompt_1_ja;526;488;240;120;0.5;0.5
+Stage5_4_money_prompt_1_zh;480;17;240;120;0.5;0.5
+Stage5_4_money_prompt_2_ja;240;17;240;120;0.5;0.5
+Stage5_5_prompt_zh;526;297;322;71;0.5;0.5
+Stage5_6_hello_zh;0;17;240;120;0.5;0.5
+Stage6_3_bubble_his_1_zh;800;1116;199;131;0.5;0.5
+Stage6_3_bubble_his_react_no_zh;800;1247;199;131;0.5;0.5
+Stage6_3_bubble_his_react_yes_zh;800;1378;199;131;0.5;0.5
+Stage6_3_bubble_my_no_zh;800;862;200;127;0.5;0.5
+Stage6_3_bubble_my_yes_zh;800;989;200;127;0.5;0.5
+Stage6_4_hello_2_zh;312;137;312;144;0.5;0.5
+Stage6_4_hello_zh;0;137;312;144;0.5;0.5
+StageSelect_frame;0;281;526;327;0.5;0.5
+Stage_5_3_hisbody;800;1509;130;233;0.5;0.5
+Startup_frame;0;1568;800;480;0.5;0.5
