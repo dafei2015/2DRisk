@@ -46,7 +46,7 @@ public class ResLoadRequest
     /// </summary>
     public bool isDone
     {
-        get { return request != null; }
+        get { return request != null && request.isDone; }
     }
 
     public ResLoadRequest(string assetName, bool isKeepInMemory, Type type)

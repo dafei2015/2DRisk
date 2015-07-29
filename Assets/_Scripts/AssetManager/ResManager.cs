@@ -39,12 +39,14 @@ public class ResManager : MonoBehaviour
     {
         get
         {
-            if (mInstance != null) return mInstance;
-            var obj = new GameObject("ResManager");
-            mInstance = obj.AddComponent<ResManager>();
-            mProcessCount = SystemInfo.processorCount;
-            mProcessCount = mProcessCount < 1 ? 1 : mProcessCount;
-            mProcessCount = mProcessCount > 8 ? 8 : mProcessCount;
+            if (mInstance == null)
+            {
+                var obj = new GameObject("ResManager");
+                mInstance = obj.AddComponent<ResManager>();
+                mProcessCount = SystemInfo.processorCount;
+                mProcessCount = mProcessCount < 1 ? 1 : mProcessCount;
+                mProcessCount = mProcessCount > 8 ? 8 : mProcessCount;
+            }
             return mInstance;
         }
     }
@@ -113,6 +115,9 @@ public class ResManager : MonoBehaviour
                 listen = request.listents[i];
                 if (request.asset != null)
                 {
+                    AssetPack pack = new AssetPack(request.type, request.isKeepInMemory);
+                    pack.asset = request.asset;
+                    mAssetPacksDic.Add(request.assetName,pack);
                     listen.Succeed(request.asset);
                 }
                 else

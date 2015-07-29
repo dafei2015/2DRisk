@@ -59,15 +59,17 @@
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UI">
-      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\MainScence\MainUICtrl.cs" />
     <Compile Include="Assets\_Scripts\AssetManager\AssetPack.cs" />
     <Compile Include="Assets\_Scripts\AssetManager\ILoadListent.cs" />
     <Compile Include="Assets\_Scripts\AssetManager\ResLoadRequest.cs" />
     <Compile Include="Assets\_Scripts\AssetManager\ResManager.cs" />
+    <Compile Include="Assets\_Scripts\UIManager\BaseUI.cs" />
+    <Compile Include="Assets\_Scripts\UIManager\LoadViewCallBack.cs" />
+    <Compile Include="Assets\_Scripts\UIManager\ShowViewListenter.cs" />
+    <Compile Include="Assets\_Scripts\UIManager\ViewManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\codeandweb.com\Readme.txt" />
