@@ -2,6 +2,8 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Events;
+using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
 public class MainUICtrl : BaseUI
@@ -19,11 +21,11 @@ public class MainUICtrl : BaseUI
         }
         if (btnAbout)
         {
-            btnAbout.onClick.AddListener(onClick);
+//            btnAbout.onClick.AddListener(onClick);
         }
     }
 
-    void onClick()
+    void onClick(BaseEventData data)
     {
         ViewManager.Instance.ShowView("MainOptions",new List<string>(){this.viewName},new LoadMainOptionsCallBack() );
     }
@@ -41,6 +43,14 @@ public class MainUICtrl : BaseUI
         }
     }
 
+    public void TestEvent()
+    {
+        EventTrigger ti = CommonUtil.Get(btnAbout.gameObject);
+        EventTrigger.Entry e = new EventTrigger.Entry();
+        e.eventID = EventTriggerType.PointerClick;
+        UnityAction<BaseEventData> call = new UnityAction<BaseEventData>(onClick);
+        e.callback.AddListener(call);
+    }
     /// <summary>
     /// 初始化UI
     /// </summary>

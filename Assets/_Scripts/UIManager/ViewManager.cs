@@ -62,12 +62,16 @@ public class ViewManager:MonoBehaviour
        
         if (mDicView.TryGetValue(viewName, out baseUI))
         {
-            if (listener != null && baseUI != null)
+            if (baseUI != null)
             {
                 baseUI.Show();
-                listener.Succeed(baseUI);
+                if (listener != null)
+                {
+
+                    listener.Succeed(baseUI);
+                }
             }
-            else if (baseUI == null)
+            else
             {
                 mDicView.Remove(viewName);
             }

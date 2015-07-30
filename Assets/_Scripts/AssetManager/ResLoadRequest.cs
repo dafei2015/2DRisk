@@ -62,7 +62,7 @@ public class ResLoadRequest
     /// <param name="listent"></param>
     public void AddListent(ILoadListent listent)
     {
-        if (listents == null || !listents.Contains(listent)) return;
+        if (listents == null || listents.Contains(listent)) return;
         listents.Add(listent);
     }
 

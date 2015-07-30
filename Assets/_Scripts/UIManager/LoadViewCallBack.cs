@@ -21,7 +21,7 @@ public class LoadViewCallBack:ILoadListent
 
     public void AddShowViewListener(IShowViewListener listener)
     {
-        if (!showViewListeners.Contains(listener))
+        if (listener  != null && !showViewListeners.Contains(listener))
         {
             showViewListeners.Add(listener);
         }
@@ -56,6 +56,13 @@ public class LoadViewCallBack:ILoadListent
 
     public void Failed()
     {
+        for (int i = 0; i < showViewListeners.Count; i++)
+        {
+            if (showViewListeners[i] != null)
+            {
+                showViewListeners[i].Failed();
+            }
+        }
         ViewManager.Instance.RemoveLoadIns(this);
     }
 }
